@@ -3,3 +3,9 @@
 2. RAG Techniques: https://github.com/NirDiamant/RAG_Techniques
 3. Awesome Generative AI Guide: https://github.com/aishwaryanr/awesome-generative-ai-guide
 4. Analysis of 400+ ML competitions in 2024: https://www.reddit.com/r/MachineLearning/s/BuqVfT9n0z
+
+
+# Recommendation of Andrej Karpathy 
+1. Diven into Deep Learning: https://d2l.ai/index.html
+2. fastbook: https://github.com/fastai/fastbook
+3. 
